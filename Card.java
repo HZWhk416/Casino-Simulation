@@ -1,9 +1,5 @@
 /**
  * Zhiwei Hu
- * zhiweihu@brandeis.edu
- * Oct 16, 2020
- * PA05
- * COSI 12B
  */
 public class Card {
 	/**
